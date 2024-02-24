@@ -1,2 +1,2 @@
 # hello-cloud-function
-This Cloud Function will be deployed using Pulumi in GCP
+This simple Cloud Function will be deployed using Pulumi in GCP.

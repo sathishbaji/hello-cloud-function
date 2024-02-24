@@ -1,9 +1,9 @@
-package com.function;
+package com.gcp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class HelloCloudFunctionApplication {
 
 	public static void main(String[] args) {
